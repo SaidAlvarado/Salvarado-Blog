@@ -7,3 +7,7 @@
 [submodule "themes/future-imperfect"]
 	path = themes/future-imperfect
 	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "public"]
+	path = public
+	url = git@github.com:SaidAlvarado/SaidAlvarado.github.io.git
+	branch = master
